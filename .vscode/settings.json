@@ -1,0 +1,9 @@
+{
+    "go.alternateTools": {
+    
+    },
+    "go.useLanguageServer": true,
+    "go.inferGopath": false,
+    "go.gopath": "C:/Program Files/Go/bin",
+    "go.toolsGopath": "",
+}
